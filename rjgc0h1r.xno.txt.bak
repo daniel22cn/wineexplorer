@@ -1,0 +1,26 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   WineExplorer/AndroidManifest.xml
+#	modified:   WineExplorer/bin/AndroidManifest.xml
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	2ciuy0ds.x03.txt
+#	WineExplorer/bin/.gitignore
+#	WineExplorer/bin/WineExplorer.apk
+#	WineExplorer/bin/classes.dex
+#	WineExplorer/bin/dexedLibs/
+#	WineExplorer/bin/res/
+#	WineExplorer/bin/resources.ap_
+#	WineExplorer/res/values/strings_activity_settings.xml
+#	WineExplorer/res/xml/
+#	WineExplorer/src/com/wineexplorer/android/SettingsActivity.java
+#	k0l4l5qy.bqz.txt
+#	vfikjda2.mgy.txt
+
